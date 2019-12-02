@@ -1,0 +1,24 @@
+{
+  "name": "discord_rss_feed",
+  "version": "1.0.0",
+  "description": "A simple Discord script for RSS Feed",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasbnt/Discord_RSS_Feed.git"
+  },
+  "keywords": [
+    "discord",
+    "rss",
+    "feed"
+  ],
+  "author": "Thomas Bnt <contact@thomasbnt.fr>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/thomasbnt/Discord_RSS_Feed/issues"
+  },
+  "homepage": "https://github.com/thomasbnt/Discord_RSS_Feed#readme"
+}
